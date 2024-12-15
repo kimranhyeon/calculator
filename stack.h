@@ -19,3 +19,4 @@ Item peek(Stack *s);
 static void stack_underflow(void);
 static void reallocate(Stack * stack);
 #endif
+printf("학번 : 202310602, Name: 김란현\n");
