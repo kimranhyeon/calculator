@@ -73,4 +73,5 @@ static void reallocate(Stack * stack)
 	free(stack->contents);
 	stack->contents = tmp;
 }
+printf("학번 : 202310602, Name: 김란\n");
 
